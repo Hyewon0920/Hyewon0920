@@ -1,10 +1,11 @@
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?height=400&text=WELCOME%20&desc=Hyewon's%20github!)
+
+<div align="center">
 
 ### Hi there 👋
 Here are some ideas to get you started:
 
-🏸Tech stack🏸
+### 🏸Tech stack🏸
 
 ✨ used as the main
 
@@ -14,17 +15,18 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
 
 
-✨ used at least once
+  ✨ used at least once
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Redash-FF4500?style=for-the-badge&logo=Redash&logoColor=white">
 
 
-- 🌱 I’m currently learning python, R, machine learning etc...
-- 👯 I'm most interested in data analytics 
-- 📫 How to reach me: JHW0920.00@gmail.com
-- 💌 liscence : ADsP, SQLD, MOS 2013, driver license
-- ⚡ Fun fact: My favorite season is summer and I  
--->
+  
+  
+🌱 I’m currently learning python, R, machine learning etc...
+👯 I'm most interested in data analytics 
+📫 How to reach me: JHW0920.00@gmail.com
+💌 liscence : ADsP, SQLD, MOS 2013, driver license
+⚡ Fun fact: My favorite season is summer and I  
 </div>
