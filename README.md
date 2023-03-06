@@ -1,16 +1,18 @@
+![header](https://capsule-render.vercel.app/api?height=400&text=WELCOME%20&desc=Hyewon's%20github!)
+
 ### Hi there 👋
-
-<!--
-**Hyewon0920/Hyewon0920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🏸Tech stack🏸
+✨ used as the main
+
+
+✨ used at least once
+
+
+- 🌱 I’m currently learning python, R, machine learning etc...
+- 👯 I'm most interested in data analytics 
+- 📫 How to reach me: JHW0920.00@gmail.com
+- 💌 liscence : ADsP, SQLD, MOS 2013, driver license
+- ⚡ Fun fact: My favorite season is summer and I  
 -->
