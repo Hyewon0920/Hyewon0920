@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
   
   
-🌱 I’m currently learning python, R, machine learning etc...
-👯 I'm most interested in data analytics 
-📫 How to reach me: JHW0920.00@gmail.com
-💌 liscence : ADsP, SQLD, MOS 2013, driver license
-⚡ Fun fact: My favorite season is summer and I  
+- 🌱 I’m currently learning python, R, machine learning etc...
+- 👯 I'm most interested in data analytics 
+- 📫 How to reach me: JHW0920.00@gmail.com
+- 💌 liscence : ADsP, SQLD, MOS 2013, driver license
+- ⚡ Fun fact: My favorite season is summer and I  
 </div>
