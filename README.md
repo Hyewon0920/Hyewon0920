@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Redash-FF4500?style=for-the-badge&logo=Redash&logoColor=white">
 
 
-  
+### 📌check point!
   
 - 🌱 I’m currently learning python, R, machine learning etc...
 - 👯 I'm most interested in data analytics 
 - 📫 How to reach me: JHW0920.00@gmail.com
 - 💌 liscence : ADsP, SQLD, MOS 2013, driver license
-- ⚡ Fun fact: My favorite season is summer and I  
+- ⚡ Fun fact: My favorite season is summer and I love to consume a variety of content in my free time!
 </div>
