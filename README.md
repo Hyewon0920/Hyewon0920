@@ -29,4 +29,5 @@ please read my introduction below :
 - 📫 How to reach me: JHW0920.00@gmail.com
 - 💌 liscence : ADsP, SQLD, MOS 2013, driver license
 - ⚡ Fun fact: My favorite season is summer and I love to consume a variety of content in my free time!
+- 📕 notion : https://periodic-move-af0.notion.site/7eb78338402c4c0bbc018b0cb04b5011?v=d1c867e2604f42f69cbfef03644abd01
 </div>
